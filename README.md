@@ -1,4 +1,4 @@
-### DESCOMPRIMIR Y COPIAR EL CONTENIDO DE "node_modules1" Y "node_modules2" Y PEGARLO DENTRO DE "node_modules"<br> ARCHIVO MUY PESADO NO ME LO DEJA SUBIR TODO EN UNO ###<br>
+### EJECUTAR NPM INSTALL ANTES DE INICIALIZAR LA APP PARA TENER LOS node_modules ###<br>
 App de react contador de clicks. <br>
 # Getting Started with Create React App
 
